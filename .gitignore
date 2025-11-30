@@ -1,0 +1,15 @@
+# build artefacts
+/build/
+/cmake-build-*/
+
+# compiler outputs
+*.o
+*.obj
+*.exe
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
