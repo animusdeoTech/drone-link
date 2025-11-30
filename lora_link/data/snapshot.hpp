@@ -1,6 +1,6 @@
 #pragma once
 #include <cstdint>
-#include "px4_link/data/telemetry.hpp"
+#include "data/telemetry.hpp"
 
 namespace lora {
 
